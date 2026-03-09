@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm nzm0863 👋
 
-<!--
-**nzm0863/nzm0863** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm learning IoT development using ESP32 and Web technologies.
 
-Here are some ideas to get you started:
+## Interests
+- IoT
+- Embedded systems
+- Web × Hardware
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- ESP32
+- Arduino
+- JavaScript
+- TypeScript
+- React
+- HTML / CSS
+- WiFi通信
+- mDNS
+
+## Projects
+
+### ESP32 Web LED Controller
+Control NeoPixel LED from a web browser.
+
+https://github.com/nzm0863/iot_light_web_ver1.0
+
+### NeoPixel LED Control
+Control NeoPixel LED with ESP32.
+
+https://github.com/nzm0863/iot_NeoPixel_LED_ver1.0
+
+### Portfolio Site
+My portfolio website.
+
+Website  
+https://www.nnzzm.com/
+
+Source code  
+https://github.com/nzm0863/portfolio
