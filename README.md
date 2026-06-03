@@ -41,8 +41,9 @@ Designed to manage projects, tasks, users and departments through a centralized 
 **Tech Stack**
 - React
 - TypeScript
-- Node.js
-- PostgreSQL
+- Vite
+- PHP
+- MySQL
 - Tauri
 - ESP32 (IoT integration)
 
