@@ -40,13 +40,14 @@ Designed to manage projects, tasks, users and departments through a centralized 
 - Authentication and login system
 
 **Tech Stack**
+- ESP32 (IoT integration)
 - React
 - TypeScript
 - Vite
 - PHP
 - MySQL
 - Tauri
-- ESP32 (IoT integration)
+
 
 Repository  
 https://github.com/nzm0863/taskflow-app
@@ -56,15 +57,22 @@ https://www.nnzzm.com/project_management/
 
 ---
 
+### 🚽 IoT Toilet Notification
+
+Real-time toilet occupancy notification system with ESP32.
+
+https://github.com/nzm0863/IoT_toilet_notification
+
+### ESP32Utils
+
+Reusable Wi-Fi, OTA and utility library for ESP32 projects.
+
+https://github.com/nzm0863/ESP32Utils
+
 ### ESP32 Web LED Controller
 Control NeoPixel LED from a web browser.
 
 https://github.com/nzm0863/iot_light_web_ver1.0
-
-### NeoPixel LED Control
-Control NeoPixel LED with ESP32.
-
-https://github.com/nzm0863/iot_NeoPixel_LED_ver1.0
 
 ### Portfolio Site
 
