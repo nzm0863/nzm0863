@@ -11,8 +11,6 @@ Building open-source projects with ESP32, Raspberry Pi, React and AI.
 ## Skills
 - TypeScript
 - React
-- JavaScript
-- HTML / CSS
 - ESP32
 - Arduino
 - mDNS
