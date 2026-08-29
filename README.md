@@ -1,4 +1,4 @@
-# Hi, I'm nzm0863 👋
+# Hi, I'm nnzzm 👋
 
 IoT / Web / AI Developer
 Building open-source projects with ESP32, Raspberry Pi, React and AI.
