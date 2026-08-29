@@ -115,6 +115,7 @@ https://github.com/nzm0863/portfolio
 
 ## Featured Content
 
+Building open-source IoT, Robotics and AI tools with ESP32, Raspberry Pi and React.
 ### YouTube Channel
 
 Development logs and demonstrations of ESP32, Raspberry Pi and IoT projects.
