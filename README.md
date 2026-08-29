@@ -119,4 +119,4 @@ https://github.com/nzm0863/portfolio
 
 ESP32, Raspberry Pi, IoT and AI development videos, tutorials and project logs.
 
-[![YouTube Channel](images/youtube.png)](https://www.youtube.com/@nakamura-nnzzm)
+[![YouTube Channel](assets/youtube.png)](https://www.youtube.com/@nakamura-nnzzm)
