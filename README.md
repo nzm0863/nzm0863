@@ -123,5 +123,3 @@ Development logs and demonstrations of ESP32, Raspberry Pi and AI projects.
 
 **Channel**
 https://youtube.com/@nakamura-nnzzm
-
-Building open-source IoT, Robotics and AI tools with ESP32, Raspberry Pi and React.
