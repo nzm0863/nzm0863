@@ -2,7 +2,7 @@
 
 IoT / Web / AI Developer
 
-Building open-source projects with ESP32, Raspberry Pi, React and AI.
+Building open-source IoT, Robotics and AI tools with ESP32, Raspberry Pi, React and Python.
 
 ## Interests
 - Web × Hardware
@@ -115,10 +115,13 @@ https://github.com/nzm0863/portfolio
 
 ## Featured Content
 
-### YouTube Channel
+### 📺 YouTube Channel
 
-Development logs and demonstrations of ESP32, Raspberry Pi and IoT projects.
+Development logs and demonstrations of ESP32, Raspberry Pi and AI projects.
 
-[https://youtube.com/@xxxx](https://www.youtube.com/@nakamura-nnzzm)
+![YouTube Channel](assets/youtube.png)
+
+**Channel**
+https://youtube.com/@nakamura-nnzzm
 
 Building open-source IoT, Robotics and AI tools with ESP32, Raspberry Pi and React.
