@@ -31,6 +31,7 @@ Building open-source projects with ESP32, Raspberry Pi, React and AI.
 Task and project management application developed during an internship program.
 
 Designed to manage projects, tasks, users and departments through a centralized dashboard.
+![TaskFlow](assets/TaskFlow.png)
 
 **Features**
 - Project creation and management
@@ -57,29 +58,60 @@ https://www.nnzzm.com/project_management/
 
 ---
 
+### 🤖 ESP32 Omni Wheel Car
+
+![ESP32 Omni Wheel Car](assets/ESP32_car.jpg)
+
+Four-wheel omni-directional robot platform powered by ESP32.
+
+**Repository**  
+https://github.com/nzm0863/IoT_ESP32Car
+
+---
+
+### 🖼️ AI Image Processing
+
+![AI Image Processing](assets/blur.png)
+
+AI-powered image processing tool using YOLO11 Segmentation and OpenCV.
+
+**Repository**  
+https://github.com/nzm0863/AI_Image_processing
+
+---
+
 ### 🚽 IoT Toilet Notification
+
+![IoT Toilet Notification](assets/toilet.jpg)
 
 Real-time toilet occupancy notification system with ESP32.
 
+**Repository**  
 https://github.com/nzm0863/IoT_toilet_notification
 
-### ESP32Utils
+---
+
+### 📚 ESP32Utils
+
+![ESP32Utils](assets/utils.png)
 
 Reusable Wi-Fi, OTA and utility library for ESP32 projects.
 
+**Repository**  
 https://github.com/nzm0863/ESP32Utils
 
-### ESP32 Web LED Controller
-Control NeoPixel LED from a web browser.
+---
 
-https://github.com/nzm0863/iot_light_web_ver1.0
+### 🌐 Portfolio Site
 
-### Portfolio Site
+![Portfolio Site](assets/portfolio.png)
 
-Website  
+Portfolio website for IoT, Web and AI development projects.
+
+**Website**  
 https://www.nnzzm.com/
 
-Source code  
+**Source Code**  
 https://github.com/nzm0863/portfolio
 
 ## Featured Content
@@ -88,4 +120,4 @@ https://github.com/nzm0863/portfolio
 
 Development logs and demonstrations of ESP32, Raspberry Pi and IoT projects.
 
-[https://youtube.com/@xxxx](https://www.youtube.com/@nakamura-nnzzm/shorts)
+[https://youtube.com/@xxxx](https://www.youtube.com/@nakamura-nnzzm)
