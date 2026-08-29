@@ -1,6 +1,7 @@
 # Hi, I'm nzm0863 👋
 
-I'm learning Web Development and IoT using React, TypeScript and ESP32.
+IoT / Web / AI Developer
+Building open-source projects with ESP32, Raspberry Pi, React and AI.
 
 ## Interests
 - Web × Hardware
