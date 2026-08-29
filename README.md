@@ -27,37 +27,6 @@ Building open-source projects with ESP32, Raspberry Pi, React and AI.
 
 ## Projects
 
-### 🚀 TaskFlow
-Task and project management application developed during an internship program.
-
-Designed to manage projects, tasks, users and departments through a centralized dashboard.
-![TaskFlow](assets/TaskFlow.png)
-
-**Features**
-- Project creation and management
-- Task assignment and status tracking
-- User and department administration
-- Role-based access control
-- Authentication and login system
-
-**Tech Stack**
-- ESP32 (IoT integration)
-- React
-- TypeScript
-- Vite
-- PHP
-- MySQL
-- Tauri
-
-
-Repository  
-https://github.com/nzm0863/taskflow-app
-
-Demo  
-https://www.nnzzm.com/project_management/
-
----
-
 ### 🤖 ESP32 Omni Wheel Car
 
 ![ESP32 Omni Wheel Car](assets/ESP32_car.jpg)
@@ -99,6 +68,37 @@ Reusable Wi-Fi, OTA and utility library for ESP32 projects.
 
 **Repository**  
 https://github.com/nzm0863/ESP32Utils
+
+---
+
+### 🚀 TaskFlow
+Task and project management application developed during an internship program.
+
+Designed to manage projects, tasks, users and departments through a centralized dashboard.
+![TaskFlow](assets/TaskFlow.png)
+
+**Features**
+- Project creation and management
+- Task assignment and status tracking
+- User and department administration
+- Role-based access control
+- Authentication and login system
+
+**Tech Stack**
+- ESP32 (IoT integration)
+- React
+- TypeScript
+- Vite
+- PHP
+- MySQL
+- Tauri
+
+
+Repository  
+https://github.com/nzm0863/taskflow-app
+
+Demo  
+https://www.nnzzm.com/project_management/
 
 ---
 
