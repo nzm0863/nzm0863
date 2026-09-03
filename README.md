@@ -2,7 +2,10 @@
 
 IoT / Web / AI Developer
 
-Building open-source IoT, Robotics and AI tools with ESP32, Raspberry Pi, React and Python.
+Building practical IoT, Robotics, Web, and AI projects with ESP32, Raspberry Pi, React, TypeScript, and Python.
+
+Sharing development on GitHub, YouTube, LinkedIn, and my portfolio.
+
 
 ## Interests
 - Web × Hardware
