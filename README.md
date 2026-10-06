@@ -106,7 +106,7 @@ https://www.nnzzm.com/project_management/
 
 ### 🌐 Portfolio Site
 
-![Portfolio Site](assets/portfolio.png)
+![Portfolio Site](assets/nnzzm.png)
 
 Portfolio website for IoT, Web and AI development projects.
 
@@ -114,7 +114,7 @@ Portfolio website for IoT, Web and AI development projects.
 https://www.nnzzm.com/
 
 **Source Code**  
-https://github.com/nzm0863/portfolio
+https://github.com/nzm0863/nzm0863
 
 ## Featured Content
 
