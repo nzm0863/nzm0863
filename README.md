@@ -114,7 +114,7 @@ Portfolio website for IoT, Web and AI development projects.
 https://www.nnzzm.com/
 
 **Source Code**  
-https://github.com/nzm0863/nzm0863
+https://github.com/nzm0863/nnzzm-site
 
 ## Featured Content
 
